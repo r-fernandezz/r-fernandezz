@@ -11,7 +11,7 @@
 
  <div align="left">
 
-- :clipboard: I'm working on spatial ecology of tropical seabirds :bird: and bat :bat: with tracking data come from GLS or GPS tags deployed on several species 
+- :clipboard: I'm working on spatial ecology of tropical seabirds :bird: and bat :bat: with tracking data come from GLS or GPS tags deployed on several species. 
 - :mailbox: How to reach me: romain.fernandez@univ-reunion.fr </b>
 
 ## :computer: My R programs
