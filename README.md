@@ -2,7 +2,7 @@
 <div align="center">
 
 <h2> Hello! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"> </h2>
-<br/> <b class="term" > <font size="+5"> I'm PhD Data Analyst in ecology from university of Reunion island (Indian ocean, France :fr:) </font>
+<br/> <b class="term" > <font size="+5"> I'm a PhD Data Analyst in ecology from university of Reunion Island (Indian Ocean, France) </font>
 
  <div align="center">
   
