@@ -20,9 +20,9 @@
 
  <div style="display: flex; align-items: center;">
   <div style="flex: 50%;">
-    <img src="pictures/logo-BatNav_officiel.png" data-fig-align="center"width="200" /> 
+    <img src="pictures/logo-BatNav_officiel.png" data-fig-align="center"width="250" /> 
   </div>
-  <div style="flex: 50%; padding-left: 30px;">
+  <div style="flex: 50%; padding-left: 20px;">
   BatNav is an R Shiny application to perform spatial analysis using GPS points of flying foxes recorded by <a href="https://gcoi.org/">GCOI</a>. 
   </div>
 </div>
