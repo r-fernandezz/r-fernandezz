@@ -36,7 +36,7 @@
     This research compendium allows you to download and process CMIP6 and Copernicus data from the ESGF website and the Copernicus API, with CMIP6 variables being bias-corrected. 
    </p>
    <p>
-    📩 Send me an email to keep this code.
+    📩 Send me an email to keep the code above.
    </p>
   </div>
 </div>
@@ -50,7 +50,7 @@
     This research compendium enables the creation of habitat models using the biomd2 package, working with environmental data obtained from the downshape compendium. 
    </p>
    <p>
-    📩 Send me an email to keep this code.
+    📩 Send me an email to keep the code above.
    </p>
   </div>
 </div>
