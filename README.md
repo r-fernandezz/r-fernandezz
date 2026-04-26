@@ -11,7 +11,7 @@
 
  <div align="left">
 
-- :clipboard: I'm working on spatial ecology of turtles :turtle:, bat :bat: and tropical seabirds :bird: with tracking data come from GLS or GPS tags. 
+- :clipboard: I'm working on spatial ecology of turtles :turtle:, bats :bat: and tropical seabirds :bird: with tracking data come from GLS or GPS tags. 
 - :mailbox: How to reach me: romain.fernandez@univ-reunion.fr </b>
 
 ## :computer: My R programs
