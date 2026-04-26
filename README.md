@@ -2,7 +2,7 @@
 <div align="center">
 
 <h2> Hello! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"> </h2>
-<br/> <b class="term" > <font size="+5"> I'm a PhD data analyst in ecology at the Centre d'Etudes et de Découverte des Tortues Marines (Indian Ocean, 🇫🇷 La Réunion - FRANCE) </font>
+<br/> <b class="term" > <font size="+5"> I'm a PhD data analyst in ecology at the Centre d'Etudes et de Découverte des Tortues Marines (Indian Ocean, La Réunion - FRANCE) </font>
 
  <div align="center">
   
