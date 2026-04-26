@@ -33,10 +33,10 @@
   </div>
   <div style="flex: 50%; padding-left: 20px;">
    <p>
-   This research compendium allows you to download and process CMIP6 and Copernicus data from the ESGF website and the Copernicus API, with CMIP6 variables being bias-corrected. 
+    This research compendium allows you to download and process CMIP6 and Copernicus data from the ESGF website and the Copernicus API, with CMIP6 variables being bias-corrected. 
    </p>
    <p>
-   📩 Send me an email to keep this code.
+    📩 Send me an email to keep this code.
    </p>
   </div>
 </div>
@@ -46,7 +46,12 @@
     <img src="pictures/logo_modeloTrack.png" data-fig-align="center"width="200" /> 
   </div>
   <div style="flex: 50%; padding-left: 20px;">
-  This research compendium enables the creation of habitat models using the biomd2 package, working with environmental data obtained from the downshape compendium. 📩 Send me an email to keep this code.
+   <p>
+    This research compendium enables the creation of habitat models using the biomd2 package, working with environmental data obtained from the downshape compendium. 
+   </p>
+   <p>
+    📩 Send me an email to keep this code.
+   </p>
   </div>
 </div>
 
