@@ -11,7 +11,7 @@
 
  <div align="left">
 
-- :clipboard: I'm working on spatial ecology of tropical seabirds :bird: and bat :bat: with tracking data come from GLS or GPS tags deployed on several species. 
+- :clipboard: I'm working on spatial ecology of turtles :turtle:, bat :bat: and tropical seabirds :bird: with tracking data come from GLS or GPS tags. 
 - :mailbox: How to reach me: romain.fernandez@univ-reunion.fr </b>
 
 ## :computer: My R programs
@@ -32,7 +32,7 @@
     <img src="pictures/logo_downshape.png" data-fig-align="center"width="200" /> 
   </div>
   <div style="flex: 50%; padding-left: 20px;">
-  This research compendium allows you to download and process CMIP6 and Copernicus data from the ESGF website and the Copernicus API, with CMIP6 variables being bias-corrected.
+  This research compendium allows you to download and process CMIP6 and Copernicus data from the ESGF website and the Copernicus API, with CMIP6 variables being bias-corrected. 📩 Send me an email to keep this code.
   </div>
 </div>
 
@@ -41,7 +41,7 @@
     <img src="pictures/logo_modeloTrack.png" data-fig-align="center"width="200" /> 
   </div>
   <div style="flex: 50%; padding-left: 20px;">
-  This research compendium enables the creation of habitat models using the biomd2 package, working with environmental data obtained from the downshape compendium.
+  This research compendium enables the creation of habitat models using the biomd2 package, working with environmental data obtained from the downshape compendium. 📩 Send me an email to keep this code.
   </div>
 </div>
 
