@@ -2,7 +2,7 @@
 <div align="center">
 
 <h2> Hello! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"> </h2>
-<br/> <b class="term" > <font size="+5"> I'm a PhD data analyst in ecology at the Centre d'Etudes et de Découverte des Tortues Marines (Indian Ocean, La Réunion - FRANCE) </font>
+<br/> <b class="term" > <font size="+5"> I’m a PhD data scientist specializing in environmental science at at the Centre d'Etudes et de Découverte des Tortues Marines (Indian Ocean, La Réunion - FRANCE) </font>
 
  <div align="center">
   
@@ -33,10 +33,7 @@
   </div>
   <div style="flex: 50%; padding-left: 20px;">
    <p>
-    This research compendium allows you to download and process CMIP6 and Copernicus data from the ESGF website and the Copernicus API, with CMIP6 variables being bias-corrected. 
-   </p>
-   <p>
-    📩 Send me an email to keep the code above.
+    This pipeline allows you to download and process satellite images from the Copernicus and ESGF platforms. 
    </p>
   </div>
 </div>
@@ -47,7 +44,7 @@
   </div>
   <div style="flex: 50%; padding-left: 20px;">
    <p>
-    This research compendium enables the creation of habitat models using the biomd2 package, working with environmental data obtained from the downshape compendium. 
+    This pipeline enables the creation of habitat models (SDM) using the biomd2 package, working with environmental data obtained from the downshape. 
    </p>
    <p>
     📩 Send me an email to keep the code above.
@@ -60,6 +57,6 @@
     <img src="pictures/logo_glowLoc.png" data-fig-align="center"width="200" /> 
   </div>
   <div style="flex: 50%; padding-left: 20px;">
-    This package enables the creation of geolocation points from GLS twilight data and generates several result reports.
+    This package enables the creation of geolocation points from GLS twilight data.
   </div>
 </div>
